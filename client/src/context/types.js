@@ -1,0 +1,8 @@
+export const UPLOAD_FILES = "UPLOAD_FILES"
+export const SEND_TODAYS = "SEND_TODAYS"
+export const DELETE_DUPS = "DELETE_DUPS"
+export const UPLOAD_SUPPRESS = "UPLOAD_SUPPRESS"
+export const CLEAR_LEADS = "CLEAR_LEADS"
+export const POST_LEADS = "POST_LEADS"
+export const GET_DUPS = "GET_DUPS"
+export const SET_LEADS = "SET_LEADS"
